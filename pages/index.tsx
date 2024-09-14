@@ -342,15 +342,15 @@ import {
            
               <div className={styles.gradientText}>
           <div className={styles.link}>
-          <Link href="https://v2.solpad.art/" className={styles.link} >
+          <Link href="https://market.solnm.com" className={styles.link} >
           <h2 className={styles.selectBoxTitle2}>Market</h2>
                   </Link>
            </div>
            </div>
               <div className={styles.gradientText}>
           <div className={styles.link}>
-          <Link href="https://v2.solpad.art/wallet" className={styles.link} >
-          <h2 className={styles.selectBoxTitle2}>Portfolio</h2>
+          <Link href="https://solnm.com" className={styles.link} >
+          <h2 className={styles.selectBoxTitle2}>Home</h2>
                   </Link>
            </div>
               </div>
