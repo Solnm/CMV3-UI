@@ -40,7 +40,10 @@ https://code.visualstudio.com/download
 https://docs.solanalabs.com/cli/install
 
 ```sh
-sh -c "$(curl -sSfL https://release.solana.com/v1.18.12/install)"
+sh -c "$(curl -sSfL https://release.anza.xyz/stable/install)"
+```
+```sh
+export PATH="$HOME/.local/share/solana/install/active_release/bin:$PATH"
 ```
 
 ```sh
