@@ -12,7 +12,6 @@
 
 using the `devnet` network for testing, change it to `mainnet-Beta` after testing everything.
 
-Try the project first to determine whether this is what you're searching for: https://demo.solnm.com
 
 ### What You Need?
 
@@ -201,8 +200,8 @@ Happy Minting!
 
 [Original UI code](https://github.com/MarkSackerberg/umi-cmv3-ui-inofficial/) , [Original CM installation guide](https://www.quicknode.com/guides/solana-development/nfts/how-to-deploy-an-nft-collection-on-solana-using-sugar-candy-machine-umi)  
 
-Mixed and redesigned by Solpad team 
+Mixed and redesigned by Solnm team 
 
-`info@solpad.art`
+`info@soll.int`
 
-https://solpad.art
+https://soll.in
